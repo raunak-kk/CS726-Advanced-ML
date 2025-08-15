@@ -1,2 +1,2 @@
 # CS726-Advanced-ML
-Assignments as part of CS726: Advanced Machine Learning
+Assignment 4 as part of CS726: Advanced Machine Learning
